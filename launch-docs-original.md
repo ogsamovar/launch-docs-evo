@@ -25,11 +25,11 @@ Prime Launch is a platform to host reliable and fair token launches on Ethereum 
 
 ### Prime Launch: IDOs made better
 
-With the advancement of decentralized finance, an increasing number of crypto projects have shifted from listing tokens on centralized exchanges to listing on decentralized exchanges. With this transition, new mechanisms for market-making and token offerings have emerged. These mechanisms are generally called **Initial Decentralized Offerings (IDOs)**. IDOs have removed many frictions from the industry as projects no longer need to wait (or pay) for centralized exchanges to list their assets, and as a consequence, this has allowed a more diverse group of Web3 projects to emerge.
+With the advancement of decentralized finance, an increasing number of crypto projects have shifted from listing tokens on centralized exchanges to listing on decentralized exchanges. With this transition, new mechanisms for market-making and token offerings have emerged. These mechanisms are generally called **Initial Decentralized Offerings (IDOs)**. IDOs have removed significant friction from the industry as projects no longer need to wait (or pay) for centralized exchanges to list their assets, allowing a more diverse group of Web3 projects to emerge.
 
-While IDOs remove some friction to token launches, they also create new type of challenges, namely:
+While IDOs remove some friction to token launches, they also create new challenges, namely:
 
-- They require time and money to research available IDO tools and in most cases to develop custom interfaces and contracts;
+- They require time and money to research available IDO tools and to develop custom interfaces and contracts;
 - They normally have large initial capital requirements depending on the protocol
 - They suffer from exploits like [*front-running*](https://www.bitcoinsuisse.com/research/decrypt/arbitrage-and-frontrunning-in-defi) and [*sandwich attacks*](https://hackernoon.com/no-sandwich-please-popular-defi-attack-strategy-analysis-jk1734rf).
 - They suffer from poor curation or total lack of curation on the part of decentralized exchange interfaces, making it difficult for users to find reputable new projects.
@@ -38,14 +38,14 @@ Prime Launch provides DAOs with ready-to-use launch infrastructure: low initial 
 
 ### How is Prime Launch different?
 
-The first question most people have is, of course, how is Prime Launch different from everything else out there? Here’s a table to give you a quick summary:
+There are a variety of launch tools available, so how is Prime Launch different from everything else out there? Here’s a table to give you a quick summary:
 
 [Comparison table (need to be exported in HTML)](https://www.notion.so/Comparison-table-need-to-be-exported-in-HTML-9b7528de1d284cef95704e52391153a4)
 
 |  | Prime Launch
 (that’s us!) | DYI permissionless approaches | Other Permissioned Platforms (e.g. Copper) |
 | --- | --- | --- | --- |
-| 🏎 Complexity made simple | ✅ | ❌ | somehow |
+| 🏎 Complexity made simple | ✅ | ❌ | somewhat |
 | 🔒 Reliably anti-rug | ✅ | ❌ | ❌ |
 | 👩🏼‍🚀 in-house dev team | ✅ | ❌ | ✅ |
 | ⭐️ Curated projects list that you can trust | ✅ | ❌ | curated and non-curated |
@@ -64,7 +64,7 @@ optional tipping model for services
 <br>
 <br>
 
-In short, other open platforms are generally difficult to use or don't give you off-the-shelf control & ownership of your launches. Prime Launch provides the best tradeoff between design simplicity and decentralized ownership.
+In short, other open platforms are generally difficult to use or don't give you off-the-shelf control & ownership of your launches. Prime Launch provides the best tradeoff between usability and decentralized ownership.
 
 ### Prime Launch Features
 
@@ -72,7 +72,7 @@ In short, other open platforms are generally difficult to use or don't give you 
 
 We deploy **security mechanisms** to minimize or eliminate the risk for you and your contributors. Launch provides a fair share of **configuration and compliance options** for DAOs to adopt in their token offering. With our foolproof UX we have streamlined **safe and effective** ways to adopt otherwise complex smart contracts and escrow mechanisms – and we do so with an **extremely friendly business model** that has a grow-the-pie approach in which we both have skin-in-the-game in each others’ projects. 
 
-Our **permissioned, curated approach** to projects that want to get listed and use Launch has one main objective: always **ensure quality launches for DAOs and their contributors**. Project administrators can follow our comprehensive documentation and tutorials, alongside a dedicated human support.
+Our **permissioned, curated approach** to projects that want to get listed and use Launch has one main objective: always **ensure quality launches for DAOs and their contributors**. Project administrators can follow our comprehensive documentation and tutorials, alongside a dedicated human support team.
 
 Prime Launch’s decentralized and curated token offering platform is powered by Balancer v2 and it’s **available on Ethereum and Arbitrum**. Prime Launch will soon feature our own custom open-source contracts for Celo and Gnosis Chain developed [in partnership with Symmetric](https://medium.com/primedao/symmetric-primedao-working-together-to-accelerate-the-dao-ecosystem-on-celo-and-gnosis-chain-4fac91b38200). All these contracts are thoroughly audited and are designed to enable fair and effective token launches.
 
@@ -87,7 +87,7 @@ Our cross-functional team constantly identifies potentially harmful architectura
 
 ### Types of Launch
 
-As of today, Prime Launch allows you to create two types of launch:
+As of today, Prime Launch allows you to create two types of launches:
 
 🌱 **Seed Launch**, a simple way to host a decentralized token offering to raise early investments at a fixed price.
 
@@ -102,7 +102,7 @@ As of today, Prime Launch allows you to create two types of launch:
 - *Allowlist:* projects can optionally specify which addresses are allowed to invest in the seed launch
 - *Vesting:* projects can set vesting and cliff periods for contributors
 
-🌊 **Liquid Launch** leverages the [Balancer V2](https://docs.balancer.fi/) infrastructure. It uses a novel token distribution mechanism, the Liquidity Bootstrapping Pool (LBP), to disincentivize large contributors from buying all tokens in one go and to punish bots, leading to more fair and accessible distributions.
+🌊 **Liquid Launch** leverages the [Balancer V2](https://docs.balancer.fi/) infrastructure. It uses a novel token distribution mechanism, the Liquidity Bootstrapping Pool (LBP), to disincentivize large contributors from buying all tokens in one go and to punish bots, leading to fairer and more accessible distributions.
 
 **Benefits:**
 
@@ -116,13 +116,13 @@ As of today, Prime Launch allows you to create two types of launch:
 
 ### Background
 
-The rise of decentralized technologies has unleashed unprecedented opportunities for individuals and collectives to co-found, own and govern digitally-native organizations. Formulating and organizing around shared principles, capacities, and resources, the successful recipe for any collaborative network, is now easier than ever.
+The rise of decentralized technologies has unleashed unprecedented opportunities for individuals and collectives to found, own, and govern digitally-native organizations. Formulating and organizing around shared principles, capacities, and resources (the successful recipe for any collaborative network) is now easier than ever.
 
 People are neither natural cooperators nor competitive, cutthroat rationalists - they respond to the incentives in front of them. DAOs unlock cooperative ways of organizing new institutions, and by doing so they help dissolve the monopoly on ownership by a limited class of super-managers and investor elites.
 
-**Prime equips DAOs with all the tools and resources they need to thrive.** Each DAO’s lifecycle, from initiation to growth, to maturity has been given careful consideration ([explore our other products](https://www.prime.xyz/)).
+**Prime equips DAOs with all the tools and resources they need to thrive.** Each stage in a DAO’s lifecycle, from initiation to growth to maturity, has been given careful consideration ([explore our other products](https://www.prime.xyz/)).
 
-PrimeDAO enables cooperation with DAO tooling on a greater scale than previously possible, acknowledging, compensating, and recognizing the multiple stakeholders necessary to make any human venture successful - including those traditionally neglected in existing incentive structures.
+PrimeDAO enables cooperation with DAO tooling on a greater scale than previously possible, acknowledging, compensating, and recognizing the multiple stakeholders necessary to make any venture successful - including those traditionally neglected in existing incentive structures.
 
 You may find yourself drawn to Prime’s mission and products, and want to participate in PrimeDAO as a co-creator. You are welcome to [reach out to us](https://discord.com/invite/primedao) if these values resonate with you as well.
 
@@ -155,7 +155,7 @@ You can always reach out to us in the [PrimeDAO Discord Server](https://discord.
 
 ### **On which chains does Prime Launch operate?**
 
-Currently, Prime Launch operates on Mainnet and Arbitrum. We are expanding to other chains in the near future (Celo and Gnosis Chain). Please check our [PrimeDAO Discord Server](https://discord.com/invite/x8v59pG) and the [PrimeDAO Announcement Telegram Channel](https://t.me/primedaonews) for these updates.
+Currently, Prime Launch operates on Eth Mainnet and Arbitrum. We are expanding to other chains in the near future (Celo and Gnosis Chain). Please check our [PrimeDAO Discord Server](https://discord.com/invite/x8v59pG) and the [PrimeDAO Announcement Telegram Channel](https://t.me/primedaonews) for these updates.
 
 ### **How does Prime Launch pricing work?**
 
@@ -194,7 +194,7 @@ It’s also important to remember that PrimeDAO offers a few other products to s
 
 Yes! You can inquire about during your application process and get more informed about them via the [Prime Launch Support Form](https://primedao.typeform.com/PrimeLaunchSup), or by reaching out in the [PrimeDAO Discord Server](https://discord.com/invite/x8v59pG).
 
-### How PrimeDAO committed to open source with Prime Launch?
+### How is PrimeDAO committed to open source with Prime Launch?
 
 You can verify and fork our work [on our Prime Launch dapp repo](https://github.com/PrimeDAO/prime-launch-dapp) and at the [Prime DAO smart contracts repo](https://github.com/PrimeDAO/contracts-v2).
 
@@ -240,15 +240,13 @@ The **Maximum Project Token Supply** is the maximum amount of project tokens to 
 
 ### What’s the Project Token Distribution per Stakeholder Group?
 
-The **Project Token Distribution per Stakeholder Group** is a table that defines the planned or already happened distribution of project tokens existing between different stakeholders. When setting up launch, projects who issue tokens in multiple rounds should clearly demarcate the amount of tokens distributed in each round by defining a Stakeholder Group for each of these rounds.
+The **Project Token Distribution per Stakeholder Group** is a table that defines the planned or already happened distribution of project tokens existing between different stakeholders. When setting up launch, projects that issue tokens in multiple rounds should clearly demarcate the amount of tokens distributed in each round by defining a Stakeholder Group for each of these rounds.
 
 ## SEED FAQ
 
 ### **What is an allowlist?**
 
 An *allowlist* is the list of addresses that are allowed to contribute to a seed launch.
-
-At Prime we’re excited that the world is adopting new words to transcend the ones that come from the world’s colonial heritage, that’s why we don’t use words like *blacklist* or *whitelist.*
 
 ### What is the Project Token Exchange Ratio?
 
@@ -260,7 +258,7 @@ Your **Funding Tokens Target** is the minimum amount of funding tokens that you 
 
 ### What is the Funding Tokens Maximum?
 
-The **Funding Tokens Maximum** is the maximum amount of funding tokens that you want to raise in the seed. Once the Funding Maximum is reached, the seed will automatically end and the vesting period, if there is one, will begin.
+The **Funding Tokens Maximum** is the maximum amount of funding tokens that you want to raise in the seed. Once the Funding Maximum is reached, the seed will automatically end and any applicable vesting period will begin.
 
 ## LIQUID LAUNCH (LBP) FAQ
 
@@ -268,9 +266,9 @@ The **Funding Tokens Maximum** is the maximum amount of funding tokens that you 
 
 A Liquid Launch is a public token offering that works by attempting to bootstrap the liquidity of a new token. Liquid Launches use Balancer v2's Liquidity Bootstrapping Pools (LBPs) to facilitate fair and efficient conditions for distributing tokens. The mechanism has been used dozens of times with [promising results.](https://medium.com/perpetual-protocol/everything-you-need-to-know-about-the-first-liquidity-bootstrapping-pool-lbp-60a61b368c82)
 
-Essentially, LBPs are liquidity pools that change weights over time throughout the sale period. As the weights change, they create selling pressure on the project token, leading to the price of a project token dropping if there is no buying pressure. So the pool is normally set to start with a relative high weight of project tokens (e.g. 95%) in respect of a relative small weight of funding tokens (e.g. 5% DAI). During the Liquid Launch, often 2 to 3 days, the pool weights are continuously rebalanced toward the funding token, which leads the project token's price to slowly decline. Contributors can participate at their preferred price point, while bots and arbitrageurs do not benefit from front-running (as buying early generally leads to overpaying).
+Essentially, LBPs are liquidity pools that change weights over time throughout the sale period. As the weights change, they create selling pressure on the project token, leading to the price of a project token dropping if there is no buying pressure. The pool is normally set to start with a relatively high weight of project tokens (e.g. 95%) and a relatively small weight of funding tokens (e.g. 5% DAI). During the Liquid Launch, often 2 to 3 days, the pool weights are continuously rebalanced toward the funding token, which leads the project token's price to slowly decline. Contributors can participate at their preferred price point, while bots and arbitrageurs do not benefit from front-running (as buying early generally leads to overpaying).
 
-The result is a fair and accessible token launch shown to effectively discover the market price of an asset and raise funds for the project team, without requiring prohibitive initial capital or enabling problematic front-running.
+The result is a fair and accessible token launch shown to effectively discover the market price of an asset and raise funds for the project team, without requiring prohibitive initial capital or enabling front-running.
 
 In practice, this means that contributors should avoid participating too early in Liquid Launches because the valuation will be high, and no price discovery has taken place. The closer to the end of the Liquid Launch, the project token has experienced more price discovery, creating a more stable conditions for new contributors.
 
@@ -278,9 +276,9 @@ For a complete breakdown of how Liquid Launches work on the back end, please rea
 
 ### What are pool weights in an LBP? How do I setup start and end weights?
 
-LBP pool weights are expressed in percentage and are calculated based on the market value. Since the project token you are offering has no defined market value at the time of launching an LBP (most likely), this value is defined in proportion to the relative exposure with the funding token.
+LBP pool weights are expressed in percentage and are calculated based on the market value. Since the project token you are offering has no defined market value at the time of launching an LBP (most likely), this value is defined in proportion to the relative exposure of the funding token.
 
-For example, with an LBP weight ratio of 2:98 (Funding Token:Project Token), if your upfront capital of funding token is 50K USDC, and your starting price is 10 USDC, the amount of tokens you can sell is [(50K / 0.02) / 10] = approx. 250K tokens. In contrast, if your upfront capital is 1M USDC, you’d be able to sell around 5M worth of tokens.
+For example, consider an LBP weight ratio of 2:98 (Funding Token:Project Token) - if your upfront capital of funding token is 50K USDC, and your starting price is 10 USDC, the amount of tokens you can sell is [(50K / 0.02) / 10] = approx. 250K tokens. In contrast, if your upfront capital is 1M USDC, you’d be able to sell around 5M worth of tokens.
 
 The price of your token will be discovered though market dynamics during the LBP, but when you define the start weights you are intrisically giving **your project’s tokens an initial value by collateralizing them.**
 
@@ -296,14 +294,14 @@ Decide on critical parameters, such as LBP duration, starting and ending weights
 
 ### How does LBPs' constant downward price pressure works?
 
-In essence, the constant downward price pressure in an LBP is algorithmically-defined in the smart contract that automatically adjust swap rates as time passes.
+In essence, the constant downward price pressure in an LBP is algorithmically-defined in the smart contract that automatically adjusts swap rates as time passes.
 
-As we said, LBPs are liquidity pools that change weights over time throughout the sale period: from higher weights for project tokens to ideally meet the weight of the funding token. The weight determine the swap rate, so at the beginning the price will be relative high and contributors will be disincentivize to buy at that price, we call this *selling pressure* on the token. This is counterbalanced by the *buying pressure* generated by the automatic weight decrease encoded in the LBP smart contract: essentially, as time passes the project token weights decrease, increasing the desire for contributors to buy the project tokens.
+As we said, LBPs are liquidity pools that change weights over time throughout the sale period: from higher weights for project tokens to ideally meet the weight of the funding token. The weight determines the swap rate, so at the beginning the price will be relatively high and contributors will be disincentivized to buy at that price, we call this *selling pressure* on the token. This is counterbalanced by the *buying pressure* generated by the automatic weight decrease encoded in the LBP smart contract: essentially, as time passes the project token weights decrease, increasing the desire for contributors to buy the project tokens.
 
-### In short, w**hat is the process of an LBP launch on Prime Launch?**
+### **In short, what is the process of an LBP launch on Prime Launch?**
 
 1. The project owner fills in the launch parameters in the registration wizard (Project name, Project Description, cliff period, vesting period, Project Token Address, LBP start time and LBP end time, Start Weights, End Weights, etc) and submits the launch application.
-2. The prime launch evaluation team will review your project and reach out to you within 10 days to understand your specific case and answer the questions you might have.
+2. The Prime Launch evaluation team will review your project and reach out to you within 10 days to understand your specific case and answer the questions you might have.
 3. DAO-appointed Prime Launch multi-sig will take up to 5 days to approve or deny your launch submission.
 4. If your launch is approved, it will be visible on the Prime Launch interface.
 5. Once your launch is approved, the project admin has to fund the LBP with the specified project tokens and the funding tokens. This step requires your approval of three transactions.
@@ -324,7 +322,7 @@ The project admin can remove liquidity after the LBP has ended.
 
 The project admin can pause the LBP through the admin dashboard by clicking on ‘Pause Swapping’. This action will disable purchasing from the Prime Launch interface but it will not stop the weights changing process, which are a function of time passing. If the LBP is paused after the LBP has started, the project admin can unpause the LBP on the admin dashboard at anytime.
 
-### What multi-asset means in Liquid Launch?
+### **What does multi-asset mean in Liquid Launch?**
 
 It means that users can trade any token in exchange for the project token at the price of higher slippage.
 
@@ -362,7 +360,7 @@ To host a Launch via Prime Launch, you will need to follow the application proce
         - $500K-$2M
         - $2M+
     - If you got referred by someone please mention the person or the organization
-    - Prime Launch offers a series of complementary services to increase your chances of a successful launch. Here you can select from a list the services that you would be interested in (Note that this is not binding but it allows us to orientate).
+    - Prime Launch offers a series of complementary services to increase your chances of a successful launch. Here you can select from a list the services that you would be interested in (Note that this is not binding but it allows us to calibrate).
         - Research
         - Smart contract audit
         - Community Building
@@ -435,8 +433,8 @@ To host a Seed Round on Prime Launch, see (TODO add anchor/link) Apply to host a
     
 2. Be ready to provide the following **Project Details:**
     - A short text to describe your project (max 200 characters). This short description will be visible to users on Featured Launch cards and the Launch Dashboard page.
-    - A short text to describe why contributors should engage your project (max 300 characters). This will be will be prominently displayed on the Launch Dashboard page.
-    - A short text describe the team behind the project (max 200 characters). Provide responsibilities and any useful background.
+    - A short text to describe why contributors should engage with your project (max 300 characters). This will be will be prominently displayed on the Launch Dashboard page.
+    - A short text to describe the team behind the project (max 200 characters). Provide responsibilities and any useful background.
     
     Click ‘Next’ to move to the next section of the Wizard
     
@@ -461,9 +459,9 @@ This is an example of a Stakeholder Group table distribution.
     - Define your **Project Token Exchange Ratio** with the funding token. For example, a 1.5 Project Token Exchange Ratio will provide 1 of your project’s token in exchange of 1.5 Funding Token.
     - Define your **Funding Tokens Target** which specifies the minimum amount raised to consider the Seed Launch successful. If the Funding Target is not reached by the end of the seed duration, the contributors have the option to retrieve their contribution.
     - Define **Funding Tokens Maximum** which specifies the maximum amount to be raised in the Seed Launch. Once the Funding Maximum is reached, the seed will automatically end and the vesting period, if there is one, will begin.
-    - Define the **Vesting Schedule** for the people that will participate as contributors in the Seed Launch. Input the duration in days in which the Project token is vested. Vesting is released linearly by default. The cliff is the period in which no tokens can be withdrawn or used — they are locked until this date. Please consider to set a starting date that is not sooner than 5 days from now as this will allow PrimeDAO to multisig approve this launch.
+    - Define the **Vesting Schedule** for the people that will participate as contributors in the Seed Launch. Input the duration in days in which the Project token is vested. Vesting is released linearly by default. The cliff is the period in which no tokens can be withdrawn or used — they are locked until this date. Please consider to set a starting date that is not sooner than 5 days from now as this will allow PrimeDAO to multisig-approve this launch.
     - Define the **Seed Schedule** which is the period in which your Seed Launch will be open for contributions. The schedule can end before the End Date in the case your Seed Launch reaches the Funding Tokens Maximum.
-6. (optional) If you want to allow specific address to contribute to your Seed Launch, add a URL to an **allowlist** in .csv format containing the list of addresses that are allowed to purchase Project tokens. The file must be formatted as plain text and each address must be separated from its neighbor addresses by one or more commas, spaces, tabs or carriage returns. Example using only commas:
+6. (optional) If you want to allow a specific address to contribute to your Seed Launch, add a URL to an **allowlist** in .csv format containing the list of addresses that are allowed to purchase Project tokens. The file must be formatted as plain text and each address must be separated from its neighbor addresses by one or more commas, spaces, tabs or carriage returns. Example using only commas:
     
     ```
     0x1234,0x5678,0xabcd,0x7890
@@ -536,7 +534,7 @@ To host a Liquid Launch, see <a href="/documentation/host-a-launch">Apply to hos
 2. Be ready to provide the following **Project Details:**
     - A short text to describe your project (max 200 characters). This short description will be visible to users on Featured Launch cards and the Launch Dashboard page.
     - A short text to describe why contributors should engage your project (max 300 characters). This will be will be prominently displayed on the Launch Dashboard page.
-    - A short text describe the team behind the project (max 200 characters). Provide responsibilities and any useful background.
+    - A short text to describe the team behind the project (max 200 characters). Provide responsibilities and any useful background.
     
     Click ‘Next’ to move to the next section of the Wizard
     
@@ -548,7 +546,7 @@ To host a Liquid Launch, see <a href="/documentation/host-a-launch">Apply to hos
     
     ![https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-add-stake.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1648834470125](https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-add-stake.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1648834470125)
     
-4. Projects who issue tokens in multiple rounds should clearly demarcate the amount of tokens distributed in each round, so for instance you can specify a group for each round.
+4. Projects who issue tokens in multiple rounds should clearly demarcate the amount of tokens distributed in each round.
 This is an example of a Stakeholder Group table distribution. 
     
     ![https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-stakeholder-table_UhueFMnuR.png?ik-sdk-version=javascript-1.4.3&updatedAt=1648834239823](https://ik.imagekit.io/primedao/Launch_Tutorial_Gifs/launch-stakeholder-table_UhueFMnuR.png?ik-sdk-version=javascript-1.4.3&updatedAt=1648834239823)
@@ -675,7 +673,7 @@ Please check the details for each of our service partners:
 
 **Longtail Financial (LTF)** is a decentralized research firm that is investigating the intersection of blockchain technologies in finance. With a focus is in machine learning, token engineering, and decentralised coordination.
 
-Shawn Anderson, their founder, has an advantage with his curiosity and extensive background in the field of Artificial Intelligence (A.I.). This combination of talent has given him the opportunity to apply cutting edge techniques to real world problems in business and government, while helping in the research field.
+Shawn Anderson, their founder, has an advantage with his curiosity and extensive background in the field of Artificial Intelligence (A.I.). This combination of talents has given him the opportunity to apply cutting edge techniques to real world problems in business and government, while helping in the research field.
 
 ## Service Offerings
 
